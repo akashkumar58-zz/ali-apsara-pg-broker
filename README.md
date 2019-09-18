@@ -107,4 +107,4 @@ $ python3.x instance-manager.py accessKey.csv delete-instance <DBInstanceId>
 
 * **Akash Kumar**
 
-See also the list of [contributors](https://github.infra.hana.ondemand.com/i350590/AliCloud-PostgresRDS/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/akashkumar58/ali-apsara-pg-broker/graphs/contributors) who participated in this project.
